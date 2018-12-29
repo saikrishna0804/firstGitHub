@@ -1,2 +1,0 @@
-# firstGitHub
-Sample repo
